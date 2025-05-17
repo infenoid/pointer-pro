@@ -6,4 +6,4 @@
 - Download it from latest [Releases](https://github.com/infenoid/pointer-pro/releases/").
 
 # ❤️ Donate
-**UPI- satwikg@fam**
+ **UPI- satwikg@fam**
